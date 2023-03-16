@@ -51,7 +51,7 @@ const firework2 = (text) => {
 }
 
 
-const fireWorkAnimation = (text, time) => {
+const fireWorkAnimation = (text = '', time = 350) => {
     let num = 0
     let animation = setInterval(() => {
         console.clear();
