@@ -11,6 +11,7 @@ Then import it using:
 ```
 const fireWorkAnimation = require('ascii-fireworks);
 ```
+![fireworks-example](https://user-images.githubusercontent.com/95654116/225565805-dae3cc48-c516-4f2e-a81c-409719809f97.gif)
 
 fireWorkAnimation has 2 optional arguments.
 
