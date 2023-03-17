@@ -9,7 +9,7 @@ npm i ascii-fireworks
 
 Then import it using:
 ```
-const fireWorkAnimation = require('ascii-fireworks);
+const fireWorkAnimation = require('ascii-fireworks');
 ```
 
 fireWorkAnimation has 2 optional arguments.
